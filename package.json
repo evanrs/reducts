@@ -1,0 +1,29 @@
+{
+  "name": "reducts",
+  "version": "0.0.0",
+  "description": "Redux enhancer for service generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrs/reducts.git"
+  },
+  "keywords": [
+    "reduct",
+    "business",
+    "process",
+    "model",
+    "effects",
+    "side",
+    "effect",
+    "redux"
+  ],
+  "author": "Evan Schneider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanrs/reducts/issues"
+  },
+  "homepage": "https://github.com/evanrs/reducts#readme"
+}
