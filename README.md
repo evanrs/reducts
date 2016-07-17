@@ -1,4 +1,4 @@
-# reducts
+# Reduct
 Redux enhancer for service generation
 
 ## Motivation
@@ -10,4 +10,4 @@ Without coordinated state transitions it is hard to maintain the promise of pred
 
 These solutions have low interoperability, they are not easiliy composed, and they require we adopt our own flavor of Redux.
 
-Reducts provides tools for modelling state tranistions. With inspiration from [business process modelling](https://en.wikipedia.org/wiki/Business_process_modeling) Reducts seeks to make reasoning about dependent asynchronous events as predictable as Redux makes synhcronous events.
+Reduct provides tools for modelling state tranistions. With inspiration from [business process modelling](https://en.wikipedia.org/wiki/Business_process_modeling) Reduct seeks to make reasoning about dependent asynchronous events as predictable as Redux makes synhcronous events.
