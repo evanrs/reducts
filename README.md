@@ -1,5 +1,5 @@
 # Reduct
-Redux enhancer for service generation
+Redux enhancer for composable process modeling.
 
 ## Motivation
 Modelling a long running business process with Redux is too difficult. It is easy to reason about state changes in Redux because they are synchronous, however asynchronous changes are left unsolved.
@@ -10,4 +10,4 @@ Without coordinated state transitions it is hard to maintain the promise of pred
 
 These solutions have low interoperability, they are not easiliy composed, and they require we adopt our own flavor of Redux.
 
-Reduct provides tools for modelling state tranistions. With inspiration from [business process modelling](https://en.wikipedia.org/wiki/Business_process_modeling) Reduct seeks to make reasoning about dependent asynchronous events as predictable as Redux makes synhcronous events.
+Reduct provides tools for modelling state tranistions. With inspiration from [business process modeling](https://en.wikipedia.org/wiki/Business_process_modeling) Reduct seeks to make reasoning about dependent asynchronous events as predictable as Redux makes synhcronous events.
