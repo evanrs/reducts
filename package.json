@@ -1,7 +1,7 @@
 {
   "name": "reducts",
   "version": "0.0.0",
-  "description": "Redux enhancer for service generation",
+  "description": "Redux enhancer for composable process modeling",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
