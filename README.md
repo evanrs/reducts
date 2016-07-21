@@ -83,4 +83,4 @@ someDuct.toJSON() === {
   ]
 }
 ```
-Having such a set would allow for user specific behavior to be delivered from the server.
+Complex interactions could be added at runtime or from the backend.
